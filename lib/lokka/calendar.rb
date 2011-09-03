@@ -1,3 +1,7 @@
+$:.unshift File.expand_path(File.join(File.dirname(__FILE__), '..'))
+require 'bread_crumb'
+require 'bread'
+
 module Lokka
   module Calendar
     def self.registered(app)
