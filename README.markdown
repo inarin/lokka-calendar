@@ -20,7 +20,7 @@ This plugin have bread crumb bug. Please write to your theme like:
     ↓
     <%#= bread_crumb %>
 
-Support Site: [#ginnowarashi](http://inarin.heroku.com/7) (Japanese Only)
+Support Site: [#ginnowarashi](http://i-narin.appspot.com/2011/09/3/11017) (Japanese Only)
 
 Usage
 -----
